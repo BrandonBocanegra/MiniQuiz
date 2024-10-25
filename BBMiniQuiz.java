@@ -1,8 +1,8 @@
 //********************************************************************
 //  BBMiniQuiz.java       Author: Brandon Bocanegra
 //
-//  MiniQuiz Program
-// Due 11/21/23
+//  
+// 
 //  Demonstrates the use of a class that implements an interface.
 //********************************************************************
 
